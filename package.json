@@ -1,0 +1,23 @@
+{
+  "name": "function_loops_conditional-msoltysik",
+  "version": "1.0.0",
+  "description": "W repozytorium znajdują się zadania odnośnie umiejętności tworzenia zmiennych, funkcji, instrukcji warunkowych i pętli. Umieść rozwiązanie w wyznaczonym miejscu.  Powodzenia!!!",
+  "main": "ex_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pl-incode/function_loops_conditional-msoltysik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pl-incode/function_loops_conditional-msoltysik/issues"
+  },
+  "homepage": "https://github.com/pl-incode/function_loops_conditional-msoltysik#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
